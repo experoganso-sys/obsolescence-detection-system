@@ -18,7 +18,7 @@ Développer un prototype capable d’analyser un inventaire logiciel et de déte
 
 Pour exécuter le script :
 
-python obsolescence_checker.py inventaire.csv
+python obsolescence_checker.py     -inventaire.csv
 
 ## Auteur
 
